@@ -1,0 +1,372 @@
+﻿word_de,Word,GermanTranslation,category,orth_lower,SUBTLEX,ZipfSUBTLEX
+dose,can,Dose,container,dose,7.52,3.8784846106281483
+uhr,watch,Uhr,clothing accessory,uhr,269.93,5.431317531389974
+hand,hand,Hand,body part,hand,232.65,5.366770862805854
+buch,book,Buch,school supply,buch,120.52,5.081188568286841
+haar,hair,Haar,body part,haar,44.61,4.649796436481486
+griff,handle,Griff,hardware,griff,28.27,4.4519122723074815
+ball,ball,Ball,sports equipment,ball,56.73,4.754148642308008
+papier,paper,Papier,arts and crafts supply,papier,27.95,4.447052982654365
+beutel,bag,Beutel,container,beutel,5.43,3.7381981821786936
+box,box,Box,container,box,10.12,4.006803087887828
+kleid,dress,Kleid,clothing,kleid,42.95,4.633406020293317
+schlüssel,key,Schlüssel,hardware,schlüssel,121.62,5.085141861349433
+radio,radio,Radio,electronic device,radio,34.49,4.538182975290639
+bier,beer,Bier,drink,bier,83.07,4.9196716152322555
+klebeband,tape,Klebeband,arts and crafts supply,klebeband,3.31,3.5246023076388915
+katze,cat,Katze,animal,katze,43.74,4.641288169170637
+arm,arm,Arm,body part,arm,82.64,4.917402676658518
+fuß,foot,Fuß,body part,fuß,65.95,4.819457396218857
+hut,hat,Hut,clothing,hut,45.91,4.662254237969969
+huhn,chicken,Huhn,animal,huhn,17.05,4.2326731114371094
+glas,glass,Glas,container,glas,51.1,4.708792532997626
+wein,wine,Wein,drink,wein,48.39,4.685088493363996
+hose,pants,Hose,clothing,hose,40.4,4.606753825521877
+bein,leg,Bein,body part,bein,50.91,4.70711765825728
+tasse,cup,Tasse,container,tasse,18.43,4.266356224639682
+flasche,bottle,Flasche,container,flasche,36.54,4.5631990959182405
+streichholz,match,Streichholz,lighting,streichholz,2.44,3.3945239313781803
+hemd,shirt,Hemd,clothing,hemd,28.43,4.454321679219129
+krawatte,tie,Krawatte,clothing,krawatte,10.75,4.032933944744986
+datei,file,Datei,office supply,datei,6.77,3.833229485053394
+mantel,coat,Mantel,clothing,mantel,21.14,4.325965657590988
+glocke,bell,Glocke,musical instrument,glocke,13.35,4.1266622989668535
+käse,cheese,Käse,dessert,käse,21.3,4.329182668462986
+football,football,Football,sports equipment,football,9.72,3.989635062750815
+finger,finger,Finger,body part,finger,84.1,4.924987904088668
+jacke,jacket,Jacke,clothing,jacke,27.8,4.444602795721498
+brille,glasses,Brille,clothing accessory,brille,25.59,4.408764370492791
+ohr,ear,Ohr,body part,ohr,29.84,4.475425157820079
+schuh,shoe,Schuh,clothing,schuh,14.45,4.161031200598116
+locher,punch,Locher,office supply,locher,0.63,2.8256323033028727
+draht,wire,Draht,arts and crafts supply,draht,5.95,3.7770269698693713
+schulter,shoulder,Schulter,body part,schulter,22.52,4.353338003891989
+ei,egg,Ei,breakfast food,ei,24.06,4.38193480407016
+baseball,baseball,Baseball,sports equipment,baseball,10.39,4.018429255861406
+puppe,doll,Puppe,toy,puppe,18.27,4.262636334814553
+stift,pen,Stift,arts and crafts supply,stift,15.75,4.198327754544781
+gürtel,belt,Gürtel,clothing,gürtel,8.66,3.9395756556097092
+apfel,apple,Apfel,food,apfel,7.87,3.8983794393450877
+geldbörse,wallet,Geldbörse,container,geldbörse,2.17,3.343371408930799
+seil,rope,Seil,construction equipment,seil,17.6,4.246461395922743
+sandwich,sandwich,Sandwich,breakfast food,sandwich,13.82,4.14172604540273
+frucht,fruit,Frucht,food,frucht,3.82,3.5864094576170933
+unterwäsche,underwear,Unterwäsche,clothing,unterwäsche,16.46,4.217397404890894
+schale,bowl,Schale,container,schale,6.77,3.833229485053394
+hupe,horn,Hupe,musical instrument,hupe,3.5,3.5494258913639234
+schläger,bat,Schläger,sports equipment,schläger,12.87,4.111057225636277
+butter,butter,Butter,condiment,butter,10.55,4.024935661927007
+schleife,bow,Schleife,clothing,schleife,4.25,3.632609879865222
+maus,mouse,Maus,electronic device,maus,10.91,4.039228177842675
+bügeleisen,iron,Bügeleisen,electronic device,bügeleisen,0.43,2.6743646279722233
+salat,salad,Salat,food,salat,12.95,4.113697321802486
+spielzeug,toy,Spielzeug,toy,spielzeug,14.53,4.163385105991594
+gras,grass,Gras,plant,gras,31.14,4.493908563514092
+chips,chips,Chips,food,chips,11.61,4.066475092983537
+teig,dough,Teig,food,teig,1.18,3.0865450757588713
+nuss,nut,Nuss,food,nuss,4.33,3.640506360711256
+gitarre,guitar,Gitarre,musical instrument,gitarre,9.29,3.9699317279347026
+soße,sauce,Soße,condiment,soße,5.95,3.7770269698693713
+make-up,makeup,Make-up,personal hygiene item,,,
+seife,soap,Seife,personal hygiene item,seife,7.95,3.9026794198378116
+reis,rice,Reis,food,reis,17.76,4.250321816735981
+knie,knee,Knie,body part,knie,39.61,4.598212852478216
+mais,corn,Mais,food,mais,4.69,3.6743646279722233
+bürste,brush,Bürste,tool,bürste,2.01,3.3111867255593976
+rahmen,frame,Rahmen,home decor,rahmen,7.24,3.8623551103276124
+pullover,sweater,Pullover,clothing,pullover,5.24,3.7222881802894063
+krone,crown,Krone,clothing,krone,9.06,3.958795361816743
+zahn,tooth,Zahn,body part,zahn,10.28,4.013484673244344
+kaugummi,gum,Kaugummi,candy,kaugummi,10.47,4.021694643289174
+koffer,suitcase,Koffer,container,koffer,37.21,4.571074518326391
+korb,basket,Korb,container,korb,8.23,3.9174026766585177
+lampe,lamp,Lampe,electronic device,lampe,13.9,4.144186643950387
+kinn,chin,Kinn,body part,kinn,5.71,3.7595362377090358
+erdnuss,peanut,Erdnuss,food,erdnuss,1.46,3.1749669785414087
+pfanne,pan,Pfanne,container,pfanne,2.44,3.3945239313781803
+zitrone,lemon,Zitrone,food,zitrone,4.37,3.64440140459478
+ton,clay,Ton,arts and crafts supply,ton,30.0,4.477707919879479
+daumen,thumb,Daumen,body part,daumen,12.6,4.1016884143294705
+schinken,ham,Schinken,breakfast food,schinken,9.53,3.9807896555229108
+kartoffel,potato,Kartoffel,food,kartoffel,3.58,3.5589712092701538
+bh,bra,BH,clothing,bh,8.19,3.9153296680356524
+banane,banana,Banane,food,banane,4.69,3.6743646279722233
+würfel,dice,Würfel,game,würfel,6.46,3.812667326138505
+stecker,plug,Stecker,hardware,stecker,5.63,3.7535458740198484
+vorhang,curtain,Vorhang,home decor,vorhang,6.54,3.817899853072182
+handschuh,glove,Handschuh,clothing,handschuh,4.69,3.6743646279722233
+umschlag,envelope,Umschlag,office supply,umschlag,8.15,3.91324671688736
+rock,skirt,Rock,clothing,rock,26.18,4.4186576110949
+bleistift,pencil,Bleistift,arts and crafts supply,bleistift,3.74,3.577454614964167
+halskette,necklace,Halskette,jewelry,halskette,2.8,3.452515878355867
+waage,scale,Waage,scientific equipment,waage,2.17,3.343371408930799
+helm,helmet,Helm,construction equipment,helm,9.76,3.991382729020335
+shorts,shorts,Shorts,clothing,shorts,3.03,3.487277984615079
+socke,sock,Socke,clothing,socke,2.87,3.464415101655575
+feuerzeug,lighter,Feuerzeug,lighting,feuerzeug,5.91,3.774160329217768
+lippenstift,lipstick,Lippenstift,personal hygiene item,lippenstift,7.24,3.8623551103276124
+pfeffer,pepper,Pfeffer,food,pfeffer,2.95,3.47599697420539
+ballon,balloon,Ballon,toy,ballon,4.88,3.692093394932655
+perücke,wig,Perücke,headwear,perücke,5.87,3.77127464098028
+glas,jar,Glas,container,glas,51.1,4.708792532997626
+umhang,cape,Umhang,clothing,umhang,4.53,3.659641371151517
+schild,shield,Schild,safety equipment,schild,21.97,4.342595189811021
+schlauch,hose,Schlauch,garden tool,schlauch,5.12,3.7124546775803626
+armband,bracelet,Armband,clothing accessory,armband,5.32,3.728722290294816
+löffel,spoon,Löffel,kitchen tool,löffel,10.12,4.006803087887828
+olive,olive,Olive,food,olive,1.42,3.1633851059915936
+rasiermesser,razor,Rasiermesser,personal hygiene item,rasiermesser,1.65,3.2286518375041853
+bolzen,bolt,Bolzen,fastener,bolzen,2.05,3.319459251525388
+bohne,bean,Bohne,food,bohne,1.89,3.285379461953112
+jeans,jeans,Jeans,clothing,jeans,5.28,3.7255171504196047
+ingwer,ginger,Ingwer,condiment,ingwer,0.83,2.937606062746805
+timer,timer,Timer,kitchen tool,timer,2.87,3.464415101655575
+kamm,comb,Kamm,personal hygiene item,kamm,3.82,3.5864094576170933
+knoblauch,garlic,Knoblauch,food,knoblauch,3.78,3.5819551161908434
+poster,poster,Poster,home decor,poster,5.08,3.709126734231435
+bremse,brake,Bremse,part of car,bremse,3.9,3.5951833819245986
+tomate,tomato,Tomate,food,tomate,1.97,3.302753558022535
+leim,glue,Leim,arts and crafts supply,leim,0.91,2.9753946236362045
+weizen,wheat,Weizen,food,weizen,2.24,3.358611375487536
+gemüse,vegetable,Gemüse,food,gemüse,11.5,4.062051002278708
+marker,marker,Marker,arts and crafts supply,marker,1.14,3.0723046366442612
+murmel,marble,Murmel,arts and crafts supply,murmel,0.94,2.993123390596636
+globus,globe,Globus,home decor,globus,1.18,3.0865450757588713
+faden,thread,Faden,arts and crafts supply,faden,6.34,3.8046983964672294
+zahnbürste,toothbrush,Zahnbürste,personal hygiene item,zahnbürste,4.76,3.6815432125993466
+besen,broom,Besen,tool,besen,4.41,3.648261825408018
+violine,violin,Violine,musical instrument,violine,1.46,3.1749669785414087
+schal,scarf,Schal,clothing,schal,4.06,3.612216721223379
+notizbuch,notebook,Notizbuch,office supply,notizbuch,2.64,3.427692294630835
+kokosnuss,coconut,Kokosnuss,food,kokosnuss,2.2,3.35105823759709
+mikrofon,microphone,Mikrofon,electronic device,mikrofon,4.33,3.640506360711256
+kürbis,squash,Kürbis,food,kürbis,3.66,3.5683112355242974
+sushi,sushi,Sushi,food,sushi,5.35,3.7319039490810053
+form,mold,Form,arts and crafts supply,form,34.73,4.541144085502167
+dreieck,triangle,Dreieck,musical instrument,dreieck,2.8,3.452515878355867
+zwiebel,onion,Zwiebel,food,zwiebel,1.54,3.197243373252561
+nudeln,pasta,Nudeln,food,nudeln,10.51,4.023318175953388
+taschentuch,handkerchief,Taschentuch,clothing accessory,taschentuch,5.2,3.7190350228916844
+trompete,trumpet,Trompete,musical instrument,trompete,2.24,3.358611375487536
+domino,domino,Domino,game,domino,0.98,3.010156729895417
+muschel,clam,Muschel,animal,muschel,1.61,3.218432672322499
+erbse,pea,Erbse,food,erbse,0.47,2.7091267342314356
+toaster,toaster,Toaster,electronic device,toaster,5.47,3.741311417602837
+vase,vase,Vase,container,vase,4.61,3.667065389230724
+kaviar,caviar,Kaviar,food,kaviar,3.82,3.5864094576170933
+karotte,carrot,Karotte,food,karotte,1.46,3.1749669785414087
+paddel,paddle,Paddel,sports equipment,paddel,0.83,2.937606062746805
+bikini,bikini,Bikini,clothing,bikini,2.44,3.3945239313781803
+kreide,chalk,Kreide,arts and crafts supply,kreide,4.37,3.64440140459478
+laptop,laptop,Laptop,electronic device,laptop,7.87,3.8983794393450877
+lineal,ruler,Lineal,school supply,lineal,0.94,2.993123390596636
+zahnpasta,toothpaste,Zahnpasta,personal hygiene item,zahnpasta,2.99,3.4816741070970805
+untersetzer,coaster,Untersetzer,home decor,untersetzer,0.91,2.9753946236362045
+taco,taco,Taco,food,taco,2.95,3.47599697420539
+schleier,veil,Schleier,clothing,schleier,3.43,3.5396660540747673
+kohl,cabbage,Kohl,food,kohl,2.52,3.4080967385674543
+nudel,noodle,Nudel,food,nudel,1.34,3.1392514262748743
+puck,puck,Puck,sports equipment,puck,0.94,2.993123390596636
+brötchen,bun,Brötchen,food,brötchen,5.75,3.7625007166727746
+staffelstab,baton,Staffelstab,sports equipment,,,
+reißverschluss,zipper,Reißverschluss,fastener,reißverschluss,3.46,3.5445733885695114
+magnet,magnet,Magnet,scientific equipment,magnet,1.5,3.1862479889510977
+roller,scooter,Roller,toy,roller,2.95,3.47599697420539
+ohrring,earring,Ohrring,clothing accessory,ohrring,1.89,3.285379461953112
+karton,cardboard,Karton,arts and crafts supply,karton,4.49,3.6558812222782104
+schürze,apron,Schürze,clothing,schürze,2.05,3.319459251525388
+fleischbällchen,meatball,Fleischbällchen,food,fleischbällchen,0.24,2.4402814219388556
+mikroskop,microscope,Mikroskop,scientific equipment,mikroskop,1.34,3.1392514262748743
+schraubenzieher,screwdriver,Schraubenzieher,construction equipment,schraubenzieher,2.05,3.319459251525388
+tupfer,swab,Tupfer,medical equipment,tupfer,0.71,2.8739369828774275
+omelett,omelet,Omelett,breakfast food,omelett,1.61,3.218432672322499
+hackbraten,meatloaf,Hackbraten,food,hackbraten,1.89,3.285379461953112
+drachen,kite,Drachen,toy,drachen,20.79,4.318639053959784
+brokkoli,broccoli,Brokkoli,food,brokkoli,0.63,2.8256323033028727
+slipper,slipper,Slipper,clothing,slipper,0.35,2.5951833819245986
+thermometer,thermometer,Thermometer,hardware,thermometer,1.54,3.197243373252561
+abschlag,tee,Abschlag,sports equipment,abschlag,1.06,3.0423414132668176
+hamster,hamster,Hamster,animal,hamster,3.07,3.49281047321504
+pilz,mushroom,Pilz,food,pilz,2.28,3.366035393566743
+flöte,flute,Flöte,musical instrument,flöte,5.47,3.741311417602837
+gurke,cucumber,Gurke,food,gurke,1.97,3.302753558022535
+walnuss,walnut,Walnuss,food,walnuss,0.94,2.993123390596636
+zahnseide,floss,Zahnseide,personal hygiene item,zahnseide,1.81,3.267281239860316
+frisbee,frisbee,Frisbee,sports equipment,frisbee,1.89,3.285379461953112
+sellerie,celery,Sellerie,food,sellerie,2.05,3.319459251525388
+essstäbchen,chopsticks,Essstäbchen,tool,essstäbchen,0.63,2.8256323033028727
+schnecke,snail,Schnecke,animal,schnecke,2.95,3.47599697420539
+holzkohle,charcoal,Holzkohle,arts and crafts supply,holzkohle,0.31,2.5494258913639234
+mundharmonika,harmonica,Mundharmonika,musical instrument,mundharmonika,1.22,3.1003333602445045
+saxophon,saxophone,Saxophon,musical instrument,saxophon,1.97,3.302753558022535
+türknauf,doorknob,Türknauf,hardware,türknauf,0.83,2.937606062746805
+skateboard,skateboard,Skateboard,sports equipment,skateboard,1.46,3.1749669785414087
+mixer,blender,Mixer,electronic device,mixer,1.26,3.113697321802486
+regenmantel,raincoat,Regenmantel,clothing,regenmantel,1.18,3.0865450757588713
+banjo,banjo,Banjo,musical instrument,banjo,2.17,3.343371408930799
+bambus,bamboo,Bambus,plant,bambus,2.72,3.4402814219388556
+mütze,beanie,Mütze,clothing,mütze,8.43,3.927621841840204
+marshmallow,marshmallow,Marshmallow,candy,marshmallow,0.75,2.89621337758858
+pistazie,pistachio,Pistazie,food,pistazie,0.24,2.4402814219388556
+tablet,tablet,Tablet,electronic device,,,
+wasserhahn,faucet,Wasserhahn,hardware,wasserhahn,0.94,2.993123390596636
+birne,pear,Birne,food,birne,5.91,3.774160329217768
+taschenrechner,calculator,Taschenrechner,school supply,taschenrechner,1.1,3.0575813798235547
+turban,turban,Turban,clothing,turban,1.46,3.1749669785414087
+werkzeugkasten,toolbox,Werkzeugkasten,container,werkzeugkasten,0.35,2.5951833819245986
+mascara,mascara,Mascara,personal hygiene item,mascara,0.35,2.5951833819245986
+krautsalat,coleslaw,Krautsalat,food,krautsalat,0.67,2.8504558870279046
+ladegerät,charger,Ladegerät,hardware,ladegerät,0.35,2.5951833819245986
+lebensretter,lifesaver,Lebensretter,safety equipment,lebensretter,0.98,3.010156729895417
+feige,fig,Feige,food,feige,10.12,4.006803087887828
+avocado,avocado,Avocado,food,avocado,0.28,2.498273368916542
+inhalator,inhaler,Inhalator,medical equipment,inhalator,0.43,2.6743646279722233
+perle,bead,Perle,arts and crafts supply,perle,4.13,3.6204892471893686
+korkenzieher,corkscrew,Korkenzieher,hardware,korkenzieher,0.55,2.77127464098028
+guacamole,guacamole,Guacamole,food,guacamole,0.55,2.77127464098028
+trichter,funnel,Trichter,kitchen tool,trichter,0.79,2.9174026766585177
+mandel,almond,Mandel,food,mandel,0.39,2.6365760670828235
+papaya,papaya,Papaya,food,papaya,0.43,2.6743646279722233
+aubergine,eggplant,Aubergine,food,aubergine,0.31,2.5494258913639234
+spachtel,spatula,Spachtel,kitchen tool,spachtel,0.24,2.4402814219388556
+kranz,wreath,Kranz,home decor,kranz,0.83,2.937606062746805
+eyeliner,eyeliner,Eyeliner,personal hygiene item,eyeliner,0.31,2.5494258913639234
+zahnstocher,toothpick,Zahnstocher,personal hygiene item,zahnstocher,2.32,3.373334632308242
+radiergummi,eraser,Radiergummi,arts and crafts supply,radiergummi,0.51,2.741311417602837
+spargel,asparagus,Spargel,food,spargel,1.02,3.026547146083586
+sanduhr,hourglass,Sanduhr,home decor,sanduhr,1.22,3.1003333602445045
+stethoskop,stethoscope,Stethoskop,medical equipment,stethoskop,1.34,3.1392514262748743
+sicherheitsgurt,seatbelt,Sicherheitsgurt,part of car,sicherheitsgurt,0.55,2.77127464098028
+sprossen,sprouts,Sprossen,food,sprossen,0.2,2.373334632308242
+tamburin,tambourine,Tamburin,musical instrument,tamburin,0.28,2.498273368916542
+knödel,dumpling,Knödel,food,knödel,0.28,2.498273368916542
+teekanne,teapot,Teekanne,container,teekanne,1.61,3.218432672322499
+snowboard,snowboard,Snowboard,sports equipment,snowboard,0.35,2.5951833819245986
+kiwi,kiwi,Kiwi,food,kiwi,0.59,2.799303364580523
+zangen,tongs,Zangen,kitchen tool,zangen,0.31,2.5494258913639234
+klemmbrett,clipboard,Klemmbrett,office supply,klemmbrett,0.28,2.498273368916542
+haarbürste,hairbrush,Haarbürste,personal hygiene item,haarbürste,0.31,2.5494258913639234
+nussknacker,nutcracker,Nussknacker,kitchen tool,nussknacker,0.35,2.5951833819245986
+ravioli,ravioli,Ravioli,food,ravioli,0.67,2.8504558870279046
+herd,cooker,Herd,container,herd,5.67,3.7565513841595735
+rettich,radish,Rettich,food,rettich,1.61,3.218432672322499
+kazoo,kazoo,Kazoo,musical instrument,,,
+safran,saffron,Safran,food,safran,1.97,3.302753558022535
+schneebesen,whisk,Schneebesen,kitchen tool,schneebesen,0.08,2.072304636644261
+scharnier,hinge,Scharnier,hardware,scharnier,0.35,2.5951833819245986
+blumenkohl,cauliflower,Blumenkohl,food,blumenkohl,0.51,2.741311417602837
+artischocke,artichoke,Artischocke,food,artischocke,0.12,2.197243373252561
+pendel,pendulum,Pendel,scientific equipment,pendel,0.51,2.741311417602837
+okra,okra,Okra,food,okra,0.04,1.8962133775885799
+gewürznelke,clove,Gewürznelke,food,,,
+pillendose,pillbox,Pillendose,container,pillendose,0.04,1.8962133775885799
+kerzenständer,candlestick,Kerzenständer,home decor,kerzenständer,0.35,2.5951833819245986
+defibrillator,defibrillator,Defibrillator,electronic device,defibrillator,1.34,3.1392514262748743
+riemenscheibe,pulley,Riemenscheibe,construction equipment,,,
+stirnband,headband,Stirnband,clothing,stirnband,0.31,2.5494258913639234
+buntstift,crayon,Buntstift,arts and crafts supply,,,
+fußkettchen,anklet,Fußkettchen,jewelry,fußkettchen,0.59,2.799303364580523
+hotdog,hotdog,Hotdog,food,hotdog,4.92,3.6955539270421616
+entsafter,juicer,Entsafter,kitchen tool,entsafter,0.12,2.197243373252561
+staubwedel,duster,Staubwedel,tool,staubwedel,0.04,1.8962133775885799
+kaffeemaschine,coffeemaker,Kaffeemaschine,electronic device,kaffeemaschine,1.22,3.1003333602445045
+haarnadel,hairpin,Haarnadel,fastener,haarnadel,0.91,2.9753946236362045
+schachbrett,chessboard,Schachbrett,game,schachbrett,0.55,2.77127464098028
+fagott,bassoon,Fagott,musical instrument,fagott,0.04,1.8962133775885799
+joystick,joystick,Joystick,electronic device,joystick,0.2,2.373334632308242
+kopfschmuck,headdress,Kopfschmuck,clothing,kopfschmuck,0.12,2.197243373252561
+router,router,Router,electronic device,router,0.83,2.937606062746805
+dudelsack,bagpipe,Dudelsack,musical instrument,dudelsack,0.51,2.741311417602837
+aloe,aloe,Aloe,plant,aloe,0.39,2.6365760670828235
+schäler,peeler,Schäler,kitchen tool,,,
+fingerhut,thimble,Fingerhut,arts and crafts supply,fingerhut,0.71,2.8739369828774275
+kelle,trowel,Kelle,construction equipment,kelle,0.35,2.5951833819245986
+rakel,squeegee,Rakel,tool,,,
+lampenschirm,lampshade,Lampenschirm,home decor,lampenschirm,0.16,2.2941533862606174
+rote bete,beet,Rote Bete,food,,,
+becken,cymbal,Becken,musical instrument,becken,4.33,3.640506360711256
+tannenzapfen,pinecone,Tannenzapfen,home decor,tannenzapfen,0.63,2.8256323033028727
+leggings,leggings,Leggings,clothing,leggings,0.16,2.2941533862606174
+granatapfel,pomegranate,Granatapfel,food,granatapfel,0.12,2.197243373252561
+vogelhaus,birdhouse,Vogelhaus,home decor,vogelhaus,0.24,2.4402814219388556
+kehrschaufel,dustpan,Kehrschaufel,container,,,
+abakus,abacus,Abakus,home decor,abakus,0.12,2.197243373252561
+sandale,sandal,Sandale,clothing,sandale,0.87,2.9569112179421917
+haartrockner,hairdryer,Haartrockner,electronic device,haartrockner,0.2,2.373334632308242
+gangschaltung,gearshift,Gangschaltung,part of car,gangschaltung,0.2,2.373334632308242
+cashew,cashew,Cashew,food,cashew,0.2,2.373334632308242
+gyroskop,gyroscope,Gyroskop,scientific equipment,gyroskop,0.08,2.072304636644261
+fischglas,fishbowl,Fischglas,container,fischglas,0.2,2.373334632308242
+xylophon,xylophone,Xylophon,musical instrument,xylophon,0.04,1.8962133775885799
+notizblock,notepad,Notizblock,office supply,notizblock,0.79,2.9174026766585177
+pompon,pom-pom,Pompon,arts and crafts supply,pompon,0.04,1.8962133775885799
+windrad,pinwheel,Windrad,home decor,windrad,0.39,2.6365760670828235
+reibe,grater,Reibe,kitchen tool,reibe,1.1,3.0575813798235547
+dartscheibe,dartboard,Dartscheibe,sports equipment,dartscheibe,0.08,2.072304636644261
+salzstreuer,saltshaker,Salzstreuer,container,salzstreuer,0.28,2.498273368916542
+textmarker,highlighter,Textmarker,office supply,textmarker,0.16,2.2941533862606174
+türklopfer,doorknocker,Türklopfer,hardware,türklopfer,0.24,2.4402814219388556
+fußstütze,footrest,Fußstütze,furniture,,,
+lanyard,lanyard,Lanyard,clothing accessory,,,
+ohrstöpsel,earplug,Ohrstöpsel,safety equipment,ohrstöpsel,0.71,2.8739369828774275
+honigtopf,honeypot,Honigtopf,container,honigtopf,0.04,1.8962133775885799
+büroklammer,paperclip,Büroklammer,fastener,büroklammer,0.51,2.741311417602837
+knieschoner,kneepad,Knieschoner,protective clothing,knieschoner,0.2,2.373334632308242
+windspiele,wind chimes,Windspiele,home decor,,,
+gießkanne,watering can,Gießkanne,container,gießkanne,0.31,2.5494258913639234
+wasserflasche,water bottle,Wasserflasche,container,wasserflasche,0.31,2.5494258913639234
+luftpumpe,air pump,Luftpumpe,tool,luftpumpe,0.12,2.197243373252561
+kartoffelpüree,mashed potato,Kartoffelpüree,food,kartoffelpüree,0.24,2.4402814219388556
+rührei,scrambled egg,Rührei,breakfast food,rührei,0.79,2.9174026766585177
+messbecher,measuring cup,Messbecher,container,messbecher,0.31,2.5494258913639234
+taschenuhr,pocket watch,Taschenuhr,jewelry,taschenuhr,0.55,2.77127464098028
+papiertüte,paper bag,Papiertüte,container,papiertüte,1.18,3.0865450757588713
+rollschuh,rollerskate,Rollschuh,footwear,rollschuh,0.63,2.8256323033028727
+geschenkpapier,wrapping paper,Geschenkpapier,arts and crafts supply,geschenkpapier,0.47,2.7091267342314356
+scheibenwischer,windshield wiper,Scheibenwischer,part of car,scheibenwischer,0.75,2.89621337758858
+sojasauce,soy sauce,Sojasauce,condiment,sojasauce,0.75,2.89621337758858
+zündkerze,spark plug,Zündkerze,hardware,zündkerze,0.12,2.197243373252561
+eiswaffel,ice-cream cone,Eiswaffel,dessert,eiswaffel,0.12,2.197243373252561
+hula-hoop-reifen,hula hoop,Hula-Hoop-Reifen,toy,,,
+eisbeutel,ice pack,Eisbeutel,medical equipment,eisbeutel,0.75,2.89621337758858
+lippenbalsam,lip balm,Lippenbalsam,personal hygiene item,,,
+glühbirne,lightbulb,Glühbirne,hardware,glühbirne,1.69,3.238636058410786
+rettungsweste,life jacket,Rettungsweste,clothing,rettungsweste,0.39,2.6365760670828235
+skistock,ski pole,Skistock,sports equipment,,,
+laborkittel,lab coat,Laborkittel,clothing,laborkittel,0.2,2.373334632308242
+nummernschild,license plate,Nummernschild,part of car,nummernschild,4.25,3.632609879865222
+rasierschaum,shaving cream,Rasierschaum,personal hygiene item,rasierschaum,0.51,2.741311417602837
+bleistiftspitzer,pencil sharpener,Bleistiftspitzer,arts and crafts supply,,,
+sparschwein,piggy bank,Sparschwein,container,sparschwein,0.63,2.8256323033028727
+rückspiegel,rearview mirror,Rückspiegel,part of car,rückspiegel,1.3,3.1266622989668535
+fernbedienung,remote control,Fernbedienung,electronic device,fernbedienung,6.77,3.833229485053394
+nudelholz,rolling pin,Nudelholz,kitchen tool,nudelholz,0.08,2.072304636644261
+nagellack,nail polish,Nagellack,personal hygiene item,nagellack,1.34,3.1392514262748743
+t-shirt,t-shirt,T-Shirt,clothing,,,
+lenkrad,steering wheel,Lenkrad,part of car,lenkrad,4.02,3.6080206066297706
+football-helm,football helmet,Football-Helm,headwear,,,
+zuckerwürfel,sugar cube,Zuckerwürfel,food,zuckerwürfel,0.35,2.5951833819245986
+süßkartoffel,sweet potato,Süßkartoffel,food,süßkartoffel,0.08,2.072304636644261
+osterei,easter egg,Osterei,food,osterei,0.24,2.4402814219388556
+tonbandgerät,tape recorder,Tonbandgerät,electronic device,tonbandgerät,0.67,2.8504558870279046
+erste-hilfe-set,first-aid kit,Erste-Hilfe-Set,medical equipment,,,
+maßband,tape measure,Maßband,scientific equipment,maßband,0.24,2.4402814219388556
+reagenzglas,test tube,Reagenzglas,container,reagenzglas,0.43,2.6743646279722233
+tennisball,tennis ball,Tennisball,sports equipment,tennisball,0.43,2.6743646279722233
+hörgerät,hearing aid,Hörgerät,medical equipment,hörgerät,0.43,2.6743646279722233
+grüne bohnen,green beans,Grüne Bohnen,food,,,
+golfschläger,golf club,Golfschläger,sports equipment,golfschläger,1.22,3.1003333602445045
+sternfrucht,star fruit,Sternfrucht,food,,,
+kaffeebohne,coffee bean,Kaffeebohne,food,kaffeebohne,0.04,1.8962133775885799
+cd-player,cd player,CD-Player,electronic device,,,
+schnittlauch,chive,Schnittlauch,food,schnittlauch,0.04,1.8962133775885799
+kichererbse,chickpea,Kichererbse,food,kichererbse,0.04,1.8962133775885799
+toilettenpapier,toilet paper,Toilettenpapier,personal hygiene item,toilettenpapier,2.91,3.4702446453162987
+rosenkohl,brussels sprouts,Rosenkohl,food,rosenkohl,0.67,2.8504558870279046
+bowlingkugel,bowling ball,Bowlingkugel,sports equipment,bowlingkugel,0.63,2.8256323033028727
+baseballhandschuh,baseball glove,Baseballhandschuh,sports equipment,,,
+brettspiel,board game,Brettspiel,game,brettspiel,0.47,2.7091267342314356
+gürtelschnalle,belt buckle,Gürtelschnalle,clothing accessory,gürtelschnalle,0.63,2.8256323033028727
+grissini,breadstick,Grissini,food,,,
+waffeleisen,waffle iron,Waffeleisen,electronic device,waffeleisen,0.79,2.9174026766585177
+jo-jo,yo-yo,Jo-Jo,game,,,
